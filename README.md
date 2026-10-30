@@ -10,4 +10,4 @@ A learning project to build practical skills in equity research and portfolio ma
 
 ## Status
 Just getting started (9th October 2026).
-Completed my first Data Pull (30th October 2026)
+\\ Completed my first Data Pull (30th October 2026)
