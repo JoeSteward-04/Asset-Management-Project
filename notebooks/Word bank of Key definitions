@@ -1,5 +1,5 @@
-Assets:  what the company owns
-Liabilities:  what the company owes 
+Assets:  what the company owns (cash, factories, inventory, loans it has made).
+Liabilities:  what the company owes (debt, supplier bills, pensions). 
 Equity:  what is left for the owners - Assets minus liabilities 
 
 This is why Assets is equal to Liabilities plus Equity on EVERY balance sheet 
