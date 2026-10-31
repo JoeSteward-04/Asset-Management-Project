@@ -1,0 +1,23 @@
+Assets:  what the company owns
+Liabilities:  what the company owes 
+Equity:  what is left for the owners - Assets minus liabilities 
+
+This is why Assets is equal to Liabilities plus Equity on EVERY balance sheet 
+
+Yield Curve:  A graph of interest rates for bonds of equal credit quality across different maturities. Typically upward-sloping; an inversion (short-term yields above long-term) has historically signalled recession risk 
+Duration:  A measure in years, of a bond's sensitivity to interest rate changes. A duration of 5 means roughly a 5% price move for every 1% change in rates. Longer duration = more sensitivity 
+Alpha: The excess return a manager generates above what would be expected given the investment's beta (market adjusted benchmark). Positive alpha = genuine added value from skill.
+Beta:  A measure of how much an investment moves relative to the overall market. Beta of 1 = moves with the market, above 1 = more volatile; drives revenue directly.
+AUM (Assets under Management):  The total market value of investments a firm manages for clients. The standard measure of firm size; since fees are usually a % of AUM, it drives revenue directly
+Expense ratio: the annual fee a fund changes, as a % of assets. e.g 0.50% = £50/year per £10,000 invested. Passive funds: around 0.03 - 0.20%. Active funds: often 0.50-1.5%+.
+Active Management:  A manager picks individual securities, aiming to beat a benchmark through research and judgement. Higher fees; no guarantee of outperformance. 
+Passive Management: A fund tracks an index by holding the same securities in the same proportions, aiming to match (not beat) the market. Lower fees; no manager judgement.
+Tracking error: How closely a fund's returns follows its benchmarks. Low tracking error = closely replicating the index (the goal for passive funds). High tracking error in an active fund = bigger bets away from the benchmark. 
+Sharpe ratio:  A measure of risk-adjusted return (return - risk-free rate) / volatility (standard deviation). A higher Sharpe ratio means more return earned per unit of risk taken - useful for comparing funds with different volatility levels, not just raw returns. 
+Drawdown:  The percentage decline from a portfolio's peak value to its subsequent trough, before it recovers. 'Maximum drawdown' is the worst peak-to-trough loss over a given period - a key measure of downside risk and what an investor would have had to stomach. 
+NAV (Net Asset Value):  The per-share value of a fund: (total assets - total liabilities) / number of shares outstanding. Mutual funds price and trade once daily at NAV; ETFs trade intraday and can move slightly above or below NAV based on market supply and demand. 
+Liquidity Crunch:  A sudden, severe shortage of cash or easily convertible assets in a business, financial market, or banking system relative to immediate funding or debt obligations. 
+The Cash Gap:  Entities lack liquid money for urgent payroll, bills, or debt, despite holding valuable long-term assets on paper
+Free Cash Flow: Free cash flow is the cash a company generates after accounting for capital expenditures. It's used to pay dividends, reduce debt, or invest. 
+DCF (Discounted Cash Flow):    A DCF analysis is a valuation method that estimates the value of an investment based on its future cash flows, discounted back to present value. 
+Working Capital (NWC):  Working capital is the difference between current assets and current liabiliies. Components include cash, accounts receivable, inventory and accounts payable. 
